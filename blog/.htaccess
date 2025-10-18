@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+Redirect 302 /https://greenhomeschennai.vercel.app/blog/about.html https://greenhomeschennai.vercel.app/blog/blogs.html
+</IfModule>
